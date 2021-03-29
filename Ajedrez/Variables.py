@@ -1,0 +1,11 @@
+﻿indice,nmj,detener=1,0,False
+e1='Error: las casillas de origen y destino deben ser diferentes.'
+e2='Error: la casilla origen debe contener una pieza.'
+e3='Error: no es posible capturar al rey.'
+e4='Error: no se pueden capturar las propias piezas.'
+e5='Error: es el turno de las blancas.'
+e6='Error: es el turno de las negras'
+e7='Error: b8, c8 y d8 deben estar vacías para enrocar.'
+e8='Error: f8 y g8 deben estar vacías para enrocar.'
+e9='Error: b1, c1 y d1 deben estar vacías para enrocar.'
+e10='Error: f1 y g1 deben estar vacías para enrocar.'
